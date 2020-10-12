@@ -10,7 +10,7 @@
                     <text class="xunhao">5</text>
                     <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
                     <view class="txt">
-                        <text>∫ÓA∑Â</text>
+                        <text>AAA</text>
                         <text>2020-10-10</text>
                     </view>
                 </view>
