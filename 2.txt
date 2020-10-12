@@ -1,1 +1,83 @@
-22222
+22222<navbar parameter='{{parameter}}'></navbar>
+<view class="topimg">
+    <image src="../https://hongjun.jovo.site/xcximg/xcx/obj/rank_banner.jpg" mode="aspectFill"></image>
+</view>
+<view class="rankbg">
+    <view class="myrank">
+        <view class="ranklist">
+            <view class="item">
+                <view class="a1">
+                    <text class="xunhao">5</text>
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+        </view>
+    </view>
+    <view class="ranktop">
+        <image src="../https://hongjun.jovo.site/xcximg/xcx/obj/rank_title.png" class="title" />
+        <view class="ranklist">
+            <view class="item">
+                <view class="a1">
+                    <image src="../https://hongjun.jovo.site/xcximg/xcx/obj/rank1.png" class="pai" />
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+            <view class="item">
+                <view class="a1">
+                    <image src="../https://hongjun.jovo.site/xcximg/xcx/obj/rank2.png" class="pai" />                
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+            <view class="item">
+                <view class="a1">
+                    <image src="../https://hongjun.jovo.site/xcximg/xcx/obj/rank3.png" class="pai" />                    
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+            <view class="item">
+                <view class="a1">
+                    <text class="xunhao">5</text>
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+            <view class="item">
+                <view class="a1">
+                    <text class="xunhao">5</text>
+                    <image class="tx" src="../../../img/test/tx.png" mode="aspectFill" />
+                    <view class="txt">
+                        <text>ºîÏþ·å</text>
+                        <text>2020-10-10</text>
+                    </view>
+                </view>
+                <view class="a2">6´Î</view>
+            </view>
+        </view>
+    </view>
+</view>
+<view class="hei100"></view>
+<foot foots='{{foots}}'></foot>
